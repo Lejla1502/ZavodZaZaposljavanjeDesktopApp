@@ -1,0 +1,40 @@
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\ZZZ_MIS_UI.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\ZZZ_MIS_UI.exe
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\ZZZ_MIS_UI.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\ZZZ_MIS_DAL.dll
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\ZZZ_MIS_DAL.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.Frm_Kompanije.resources
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.exe
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.Frm_Kompanije_Oglasi.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.Frm_Oglasi.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.Frm_Kandidati.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.Frm_Login.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.Frm_Main.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\RdlCompile.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.Reports.Frm_KandidatiReport.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.Reports.Frm_KompanijeReport.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.Reports.Frm_OglasiReport.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.Reports.Frm_AplikacijeReport.resources
+D:\Preuzimanja\ZZZ_MIS_ispravka\ZZZ_MIS\ZZZ_MIS_UI\bin\Debug\ZZZ_MIS_UI.exe.config
+D:\Preuzimanja\ZZZ_MIS_ispravka\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.exe
+D:\Preuzimanja\ZZZ_MIS_ispravka\ZZZ_MIS\ZZZ_MIS_UI\obj\Debug\ZZZ_MIS_UI.pdb

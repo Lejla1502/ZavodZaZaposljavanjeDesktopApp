@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSAplikacije" targetNamespace="http://tempuri.org/DSAplikacije.xsd" xmlns:mstns="http://tempuri.org/DSAplikacije.xsd" xmlns="http://tempuri.org/DSAplikacije.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSAplikacije" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DSAplikacije" msprop:Generator_UserDSName="DSAplikacije">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="AplikacijeTotal" msprop:Generator_TableClassName="AplikacijeTotalDataTable" msprop:Generator_TableVarName="tableAplikacijeTotal" msprop:Generator_TablePropName="AplikacijeTotal" msprop:Generator_RowDeletingName="AplikacijeTotalRowDeleting" msprop:Generator_RowChangingName="AplikacijeTotalRowChanging" msprop:Generator_RowEvHandlerName="AplikacijeTotalRowChangeEventHandler" msprop:Generator_RowDeletedName="AplikacijeTotalRowDeleted" msprop:Generator_UserTableName="AplikacijeTotal" msprop:Generator_RowChangedName="AplikacijeTotalRowChanged" msprop:Generator_RowEvArgName="AplikacijeTotalRowChangeEvent" msprop:Generator_RowClassName="AplikacijeTotalRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Godina" msprop:Generator_ColumnVarNameInTable="columnGodina" msprop:Generator_ColumnPropNameInRow="Godina" msprop:Generator_ColumnPropNameInTable="GodinaColumn" msprop:Generator_UserColumnName="Godina" type="xs:int" minOccurs="0" />
+              <xs:element name="Mjesec" msprop:Generator_ColumnVarNameInTable="columnMjesec" msprop:Generator_ColumnPropNameInRow="Mjesec" msprop:Generator_ColumnPropNameInTable="MjesecColumn" msprop:Generator_UserColumnName="Mjesec" type="xs:int" minOccurs="0" />
+              <xs:element name="BrojKandidata" msprop:Generator_ColumnVarNameInTable="columnBrojKandidata" msprop:Generator_ColumnPropNameInRow="BrojKandidata" msprop:Generator_ColumnPropNameInTable="BrojKandidataColumn" msprop:Generator_UserColumnName="BrojKandidata" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

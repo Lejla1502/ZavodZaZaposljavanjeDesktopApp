@@ -1,0 +1,11 @@
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_DAL\bin\Debug\ZZZ_MIS_DAL.dll.config
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_DAL\bin\Debug\ZZZ_MIS_DAL.dll
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_DAL\bin\Debug\ZZZ_MIS_DAL.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_DAL\obj\Debug\ZZZ_MIS_DAL.dll
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_DAL\obj\Debug\ZZZ_MIS_DAL.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_DAL\bin\Debug\EntityFramework.dll
+c:\users\acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_DAL\bin\Debug\EntityFramework.xml
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_DAL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_DAL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Acer\documents\visual studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_DAL\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\ZZZ_MIS\ZZZ_MIS_DAL\obj\Debug\ZZZ_MIS_DAL.csprojResolveAssemblyReference.cache
